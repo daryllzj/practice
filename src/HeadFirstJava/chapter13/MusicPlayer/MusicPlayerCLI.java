@@ -1,4 +1,4 @@
-package MusicPlayer;
+package HeadFirstJava.chapter13.MusicPlayer;
 
 import javax.sound.midi.*;
 
